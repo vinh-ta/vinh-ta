@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vinh-ta
+- 👀 I’m interested in tech, investing and science
+- 🌱 I’m currently learning AWS and Java
+- 💞️ I’m looking to collaborate on fun projects
