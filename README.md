@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @vinh-ta
-- 👀 I’m interested in tech, investing and science
-- 🌱 I’m currently learning AWS, GCP and Java (Spring)
